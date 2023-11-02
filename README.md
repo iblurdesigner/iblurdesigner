@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning React, GraphQl, Python
 - 💞️ I’m looking to collaborate on Frontend projects with React JS.
-- 📫 How to reach me: I'm on twitter @blurdesigner. Instagram: blur_designer. E-mail: davidisaac.floresmedrano@gmail.com
+- 📫 How to reach me: I'm on twitter @blurdesigner. Instagram: blur_dev. E-mail: davidisaac.floresmedrano@gmail.com
 
 <!---
 iblurdesigner/iblurdesigner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
