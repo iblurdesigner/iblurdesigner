@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Flores
-- 👀 I’m interested in Data Science.
+- 👀 I’m interested in Software Development and Data Engineer.
 - 🌱 I’m currently learning React, GraphQl, Python
 - 💞️ I’m looking to collaborate on Frontend projects with React JS.
 - 📫 How to reach me: I'm on X @yosoyblur. Instagram: blur_dev. E-mail: davidisaac.floresmedrano@gmail.com
